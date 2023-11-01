@@ -3,8 +3,9 @@ public class CalculEpargne {
     
         public static void main(String[] args) {
 
-    int epargne = 500;
-    int revenues = 2000;
+        int epargne = 500;
+        int revenues = 2000;
+
     //Ajoutez 100 à votre épargne (Yeah!)
     
     epargne = epargne + 100;
@@ -15,7 +16,7 @@ public class CalculEpargne {
 
     //Faites une mise a jour sur vos delais d'épargne
 
-    int nombreDeJourEpargne = (5000 - revenues) / 500;
+        int nombreDeJourEpargne = (5000 - revenues) / 500;
 
     //Mettez à jour à nouveau votre indemnité 
 
@@ -23,15 +24,15 @@ public class CalculEpargne {
 
     String text = "Hello World By pabloooo";
 
-    final int NUMBEROFWEEKDAYS = 7;
+        final int NUMBEROFWEEKDAYS = 7;
 
-    final String MYFAVOURITEFOOD = "bolognaise";
+        final String MYFAVOURITEFOOD = "bolognaise";
 
-    int nuberOfPets = 1;
+        int nuberOfPets = 1;
 
     String currentSeason = "Winter";
 
-    int nombreDeMotsDansLaPhrase;
+        int nombreDeMotsDansLaPhrase;
 
 
     }
