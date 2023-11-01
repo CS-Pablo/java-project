@@ -1,4 +1,7 @@
- 
+public class CalculEpargne {
+    //int pour un nombre entier
+    
+        public static void main(String[] args) {
 
     int epargne = 500;
     int revenues = 2000;
