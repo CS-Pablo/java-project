@@ -11,7 +11,7 @@ public class ManipulationVariablesNUM {
         System.out.printIn("Resultat :" + c);
 
 
-
+//
     }
 
 }
