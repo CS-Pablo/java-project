@@ -1,6 +1,6 @@
 public class CyrilClassRooms {
     //int pour un nombre entier
-    
+    //
         public static void main(String[] args) {
             int agePersonne = 19;
             agePersonne = 33;
